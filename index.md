@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to my Github Profile!
 
-You can use the [editor on GitHub](https://github.com/aisland2/aisland2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# About Me
+My name is Aaron Island and I'm majoring in Game Production-Development. I am learning to be able to gain the skills to operate in the production workforce as a reliable comrade.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Contact Me
+If you need to contact me, my # is (210)-372-5001, and my email is aisland2@student.alamo.edu in case it isn't as urgent, or you need to send me a file. Let me know if you need further contact choices.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aisland2/aisland2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# My Work So Far
+This is all the work I've done so far, please take a look [here](
