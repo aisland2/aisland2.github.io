@@ -7,4 +7,4 @@ My name is Aaron Island and I'm majoring in Game Production-Development. I am le
 If you need to contact me, my # is (210)-372-5001, and my email is aisland2@student.alamo.edu in case it isn't as urgent, or you need to send me a file. Let me know if you need further contact choices.
 
 # My Work So Far
-This is all the work I've done so far, please take a look [here](https://aisland2.github.io/hello-world/)
+This is all the work I've done so far, please take a look [here.](https://aisland2.github.io/hello-world/)
