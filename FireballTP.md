@@ -1,4 +1,4 @@
-##Fireball Test Plan
+#Fireball Test Plan
 #Summary
 #Environment/User Community
 #Test Objectives
@@ -8,11 +8,11 @@
 #Test Team
 #Milestones
 #Budgets
-##Testing
+#Testing
 #Requirements
 #Testing Materials/Test Tools
 #Test Training
-##Requiement Specifications
+#Requiement Specifications
 #Business Rules/Functions
 *
 #Software/Game Functions
