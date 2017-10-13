@@ -1,41 +1,41 @@
-#Fireball Test Plan
+# Fireball Test Plan
 
-#Summary
+# Summary
 
-#Environment/User Community
+# Environment/User Community
 
-#Test Objectives
+# Test Objectives
 
-#Acceptance Criteria
+# Acceptance Criteria
 
-#References
+# References
 
-#Test Description
+# Test Description
 
-#Test Team
+# Test Team
 
-#Milestones
+# Milestones
 
-#Budgets
+# Budgets
 
-#Testing
+# Testing
 
-#Requirements
+# Requirements
 
-#Testing Materials/Test Tools
+# Testing Materials/Test Tools
 
-#Test Training
+# Test Training
 
-#Requiement Specifications
+# Requiement Specifications
 
-#Business Rules/Functions
+# Business Rules/Functions
 *
 
-#Software/Game Functions
+# Software/Game Functions
 *
 
-#Test/Function Relationships
+# Test/Function Relationships
 *
 
-Test Progression
+# Test Progression
 *
