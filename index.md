@@ -10,4 +10,3 @@ If you need to contact me, my # is (...)-...-..., and my email is ......@student
 This is all the work I've done so far, please take a look 
 * [Hello World](https://aisland2.github.io/hello-world/)
 * [Fireball Test Plan](FireballTP.md)
-* [God Eater Review] (README.md)
