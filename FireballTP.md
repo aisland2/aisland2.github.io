@@ -63,6 +63,7 @@ Joe will be playtesting while he tests for the level's general concepts. No trai
 
 # Test/Function Relationships
  | Test | Functions |
+ | --- | --- |
  | Game Controls | The Select button held for .5 seconds will reset the level. |
  | Game Controls | The L/R1 buttons strafe the player, while the L/R2 buttons move the character 90 degrees |
  | Game Controls | The Forward button on the analog buttons will propel the player forward. |
