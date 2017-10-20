@@ -9,7 +9,7 @@ Top-Down MMORPG
 PC (Steam)
 
 ## Game Rating
-7.2 or 72% approved.
+7.2 or 72% approved on Metacritic, 6/10 on Steam.
 
 ## Publisher
 IMC Games & Nexon
