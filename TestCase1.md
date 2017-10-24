@@ -22,7 +22,7 @@
   * To test the steps for making and starting a new game properly. 
 * Pre-Test Conditions:
   * Need to make sure that the engine for the game is operating.
-  * Need to be allowed to picked Story Mode.
+  * Need to be allowed to pick Story Mode.
   
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
