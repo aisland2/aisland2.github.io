@@ -1,30 +1,30 @@
 # Information
 ## Game Title
-Fairy Bloom Freesia
+Shining Force
 ## Game Type
-Beat 'em up Action game with a combo system.
+Turned based strategy RPG.
 ## Platform
-Only on PC Master Race.
+Sega Genesis, Game Boy Advance, Sega Saturn, Wii, iOS, Microsoft Windows.
 ## Game Rating
-6.0 on metacritic, 92% on steam.
+8.4 on metacritic 
 ## Publisher
-Nyu Media
+Sega
 ## Developer
-Edelweiss
+Sega
+Climax Entertainment
 ## Publishing Date
-October 17th, 2012 
+March 20, 1992
 # Synopsis
-A kingdom is attacking Lita Forest for an energy source that governs the life of it. Playing as Freesia, all you do is defeat all the enemies by beating the snot out of them.
-
+A hero set to stop an evil force from causing havoc loses his home, but continues on with his allies to stop said evil from prevailing.
 # Game Play Summary
 ## Playability
-Swift gameplay and tight controls, moves like a dream, but can be a little hard to control.
+Good playability, each character/class has their own format of movement that can make or break the flow of battle.
 ### Single/Multiplayer
 Single Player only.
 ### Controls
-Arrow Keys to move, z to attack, x to use special attacks, c to jump, v to guard. You can dash by double tapping left and right. Controller can be used, with movement being analog or the joystick, A (x) to attack, B (Circle) to use skills, X (Square) to jump, Y (Triangle) to guard. These controls can be changed at any time.
+(Using Gameboy as an example) D-Pad to move, A to select or confirm, B to cancel, start to pause or open the menu.
 
 # Bugs
 Played through but didn't notice any particular glitches.
 # Final Thoughts
-The game is small, linear and only really good for 1 - 2 playthroughs, but it's fun to try and integrate combos as you go further and further into the game. Really nice stress reliever if I may say so.
+The game is a childhood favorite, I picked it up to play it but ended up continuing after the critique. Would recommend it to anyone really.
