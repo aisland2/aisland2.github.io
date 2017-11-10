@@ -13,3 +13,8 @@ This is all the work I've done so far, please take a look
 * [TestCase1](TestCase1.md)
 * [TestCase2](TestCase2.md)
 * [TestCase3](TestCase3.md)
+*
+*
+* [GameCritique3](GameCritique3.md)
+* [GameCritique4](GameCritique4.md)
+* [GameCritique5](GameCritique5.md)
