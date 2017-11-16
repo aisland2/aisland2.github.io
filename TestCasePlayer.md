@@ -33,8 +33,8 @@
 | 3 | When the player's health reaches zero, the player dies and the game over screen comes up. | Whenever the player has no more health, the player dies and is prompted to either retry the boss or return to the main menu. | (√) |			
 | 4 | When the player blocks, they lose an icon that represents # of blocks available. | Onscreen, the player will have a set amount of blocks shown as an icon above health. The player will use one every block, and will be unable to block attacks when there are no icons left. | (√) |			
 | 5 | The player's blocks will passively regenerate every few seconds. | Approximately every 8 seconds, the player will recieve a new block so they may retaliate once more. The player cannot have more blocks than is currently allowed. | (√) |			
-| 6 | The player can recover from a hit by pressing Jump. | When the player is downed, they will be prompted to hit the Jump action to recover. |  |			
-	
+| 6 | The player can recover from a hit by pressing Jump. | When the player is downed, they will be prompted to hit the Jump action to recover. | (√) |			
+| 7 | Player can fall off a platform by pressing Down controls. | The player will quickly drop to the floor when down is pressed if they reside on a platform. | (√) |
 
 ## Overall Test Status:
 
