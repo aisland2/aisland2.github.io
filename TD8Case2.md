@@ -3,7 +3,7 @@
 ## Test Details
 
 * Test Case ID:
-  * TD8 Case P
+  * TD8 Case 2
 * Test Case Name:
   * Player Mechanics
 * Component: 
