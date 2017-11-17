@@ -3,7 +3,7 @@
 ## Test Details
 
 * Test Case ID:
-  * TD8 Case 
+  * TD8 Case 3
 * Test Case Name:
   * Tutorial
 * Component: 
